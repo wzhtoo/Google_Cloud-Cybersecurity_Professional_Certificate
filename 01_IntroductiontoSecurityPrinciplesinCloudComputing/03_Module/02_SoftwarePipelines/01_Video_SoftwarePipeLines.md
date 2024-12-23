@@ -1,0 +1,24 @@
+# 01_Video_SoftwarePi peLines
+
+[Video_SoftwarePi peLines &#128279;](https://www.coursera.org/learn/introduction-to-security-principles-in-cloud-computing/lecture/0hmwa/software-pipelines)
+
+## Water Fall Process
+
+![](https://westus31-mediap.svc.ms/transform/thumbnail?provider=spo&farmid=193786&inputFormat=png&cs=MDAwMDAwMDAtMDAwMC0wMDAwLTAwMDAtMDAwMDQ4MTcxMGE0fFNQTw&docid=https%3A%2F%2Fmy.microsoftpersonalcontent.com%2F_api%2Fv2.0%2Fdrives%2Fb!-jkcltTqL02_EJOFl7UoeUcquPE4-udDtU9PbQwn42Yqb_GkAxDWQIi8VHXqH0qU%2Fitems%2F01ON7U2VSK7ZV6QZ4LMNCLFBKLU5PFI7ZW%3Ftempauth%3Dv1e.eyJzaXRlaWQiOiI5NjFjMzlmYS1lYWQ0LTRkMmYtYmYxMC05Mzg1OTdiNTI4NzkiLCJhcHBpZCI6IjAwMDAwMDAwLTAwMDAtMDAwMC0wMDAwLTAwMDA0ODE3MTBhNCIsImF1ZCI6IjAwMDAwMDAzLTAwMDAtMGZmMS1jZTAwLTAwMDAwMDAwMDAwMC9teS5taWNyb3NvZnRwZXJzb25hbGNvbnRlbnQuY29tQDkxODgwNDBkLTZjNjctNGM1Yi1iMTEyLTM2YTMwNGI2NmRhZCIsImV4cCI6IjE3MzQ4Njg4MDAifQ.uoREWrLap9_VuadqBX2J7nl7RAWKrJAlqUfjFk6tyAxnVkGEh86dv4M1-PYyVvSd5jK3DunR5ENbtvHLUyfFmCFoa4UFuMVXNYH2bTzxRWQ0EgF6zjUTZKIjhs2MHmtfhTUut_F69WJH4qziqtDNr4SXGrVW_crcX2FHnYEEBuztOQsQ09QdXU3rBCaDmXpmCQXSL0vQBhoAxfd8fojGgwJkyvTKCPR3UkF-lCJa9qfuuuz36cUIcLNXR4qLmZJYLbm1zWgK_qOIQ2l0jpZc0xdgZNos_6PCY788ailxsBY3KEPdazf_OhBDGqHgFZ7CGOJpWMH7qSLVJTUgImrpUGVV0XsUx2qLpZnY8hFyhJAUHEXERTm-oK4BK7bPCMwM.qCO0X1xepfXd8KO2o07KCHvMj_huIyxbqt829a9rInE%26version%3DPublished&cb=63870448110&encodeFailures=1&width=1358&height=569&action=Access)
+
+## Software pipeline
+
+- A process that uses automation and tools to facilitate movement through each phase of the software development lifecycle.
+
+**Software pieplines include**
+
+- Automated integration and testing
+- Code Validation
+- Reporting measures
+
+## Automation facilitates
+
+- Consistent process
+- Seamless security
+- Testing throughout the lifecycle
+- Tools to use throughout the development project
