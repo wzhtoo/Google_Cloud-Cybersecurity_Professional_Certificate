@@ -4,12 +4,13 @@
 
 # Course Guess
 
-1. **Preston** (Security Engineer)
-2. **Manny** (Security Engineer)
-3. **Seline** (Security Engineer)
-4. **Luis** (Security Architect)
-5. **Ben** (SVP, Learning and Sustainability)
-6. **Dayo** (Security Engineer)
+1. **Manny** (Security Engineer)
+2. **Seline** (Security Engineer)
+3. **Luis** (Security Architect)
+4. **Ben** (SVP, Learning and Sustainability)
+5. **Dayo** (Security Engineer)
+6. **Chris** (Staffing Lead People Operations)
+7. **Kevin**
 
 ### Say thanks
 
