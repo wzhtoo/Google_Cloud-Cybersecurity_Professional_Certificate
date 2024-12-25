@@ -26,7 +26,7 @@ Each of you brought unique expertise and perspectives that not only enriched the
 
 This course has been an amazing journey, and I now feel more confident and better equipped to apply these principles in real-world scenarios.
 
-Thank you for your dedication, expertise, and effort in helping students like me grow.
+Thank you for your dedication, expertise, and effort in helping students like me grow. Many thanks.
 
 Sincerely,
 Win Zaw Htoo
