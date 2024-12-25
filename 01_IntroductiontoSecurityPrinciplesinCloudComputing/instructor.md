@@ -14,12 +14,19 @@
 
 ### Say thanks
 
-Dear Devan Sri Darren,
+Dear Megan,
+I am deeply grateful for your teaching in the Introduction to Security Principles in Cloud Computing course.
 
-I’m so grateful for your teaching in the System Administration and IT Infrastructure Services course.
-Your lessons have been so helpful, and I’ve learned so much.
+Your lessons have been incredibly insightful, and I’ve gained so much valuable knowledge under your guidance.
 
-I also want to thank Dion, Heather, Sandra, and Alex, whose expertise inspired me and helped improve my mindset.
-Each of you made this course amazing, and I now feel more experienced and confident.
+I also want to extend my heartfelt thanks to the instructors
+Manny, Seline, Luis, Ben, Dayo, Chris, and Kevin.
 
-Thank you for all the effort and care you put into helping students like me grow.
+Each of you brought unique expertise and perspectives that not only enriched the course content but also inspired me to think more critically about cybersecurity and cloud security practices.
+
+This course has been an amazing journey, and I now feel more confident and better equipped to apply these principles in real-world scenarios.
+
+Thank you for your dedication, expertise, and effort in helping students like me grow.
+
+Sincerely,
+Win Zaw Htoo
